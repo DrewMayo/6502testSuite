@@ -8,4 +8,4 @@ tests all 256 opcodes and as long as the affects were deterministic
 in the actual cpu in the enviroment where it was deployed (the Nintendo 
 Entertainment System). Each opcode runs 10000 test cases designed by tom
 harte running a total of 2.55 million tests and only failing on the ones
-that are region specific.
+that are region specific (instructions like SBX)
